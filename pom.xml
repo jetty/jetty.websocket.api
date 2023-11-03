@@ -262,9 +262,9 @@
   </build>
 
   <scm>
-    <connection>scm:git:https://github.com/eclipse/jetty.websocket.api.git</connection>
-    <developerConnection>scm:git:git@github.com:eclipse/jetty.websocket.api.git</developerConnection>
-    <url>https://github.com/eclipse/jetty.websocket.api</url>
+    <connection>scm:git:https://github.com/jetty/jetty.websocket.api.git</connection>
+    <developerConnection>scm:git:git@github.com:jetty/jetty.websocket.api.git</developerConnection>
+    <url>https://github.com/jetty/jetty.websocket.api</url>
     <tag>HEAD</tag>
   </scm>
 
